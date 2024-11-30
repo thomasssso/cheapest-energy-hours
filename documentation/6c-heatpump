@@ -1,0 +1,18 @@
+#example turn on your heatpump at lowest cost
+
+this example uses minimal coding
+
+##1. create the helpers
+> goto settings>devices & services > Helpers
+> create Helper (right bottom)
+> select date and/or time
+> the name I used 'starttime heatpump'
+> select 'Date and time'
+> create Helper (right bottom)
+> select date and/or time
+> the name I used 'endtime heatpump'
+> select 'Date and time'
+
+##2. create automation to calculate start and end time
+
+##3. create automation to switch the heatpump
